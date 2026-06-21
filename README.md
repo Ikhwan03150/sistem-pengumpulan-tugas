@@ -70,7 +70,4 @@ Untuk memberikan tugas baru kepada mahasiswa, Anda **tidak perlu** mengedit kode
 5. Masukkan tanggal rilis/pertemuan tugas tersebut di bawah kolom hari yang sesuai (Misal isi `2026-06-24` di kolom **Tgl Rabu**).
 6. Selesai. Sistem akan otomatis membuka form dan mulai menghitung mundur penutupan form secara mandiri untuk masing-masing kelas.
 
----
 
-## 🔗 Tautan Penting
-* **Halaman Rekap Tugas:** [https://www.sketzhbook.com/p/rekap-tugas-data-mining.html](https://www.sketzhbook.com/p/rekap-tugas-data-mining.html)
